@@ -1,1 +1,1 @@
-# IBB-ear-detection
+# IBB assignment 3 - ear recognition model
